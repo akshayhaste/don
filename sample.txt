@@ -4,4 +4,11 @@ how are you
 fine 
 you 
 me too 
-bye 
+bye
+
+
+git add
+now
+want to add 
+second time
+ 

@@ -11,4 +11,9 @@ git add
 now
 want to add 
 second time
+
+
+want to add 
+something to pull
+
  
